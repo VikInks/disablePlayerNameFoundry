@@ -1,0 +1,15 @@
+{
+  "name": "disable-player-names",
+  "title": "Disable Player Names in Chat",
+  "description": "Permet d'activer ou de désactiver l'affichage des noms des joueurs dans le chat.",
+  "version": "1.0.0",
+  "author": "Ton Nom",
+  "minimumCoreVersion": "0.8.6",
+  "scripts": ["disable-player-names.js"],
+  "styles": [],
+  "packs": [],
+  "esmodules": [],
+  "dependencies": [],
+  "manifest": "https://tonurl.com/disable-player-names/module.json",
+  "download": "https://tonurl.com/disable-player-names/disable-player-names.zip"
+}
