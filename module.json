@@ -10,6 +10,5 @@
   "packs": [],
   "esmodules": [],
   "dependencies": [],
-  "manifest": "https://VikInks.github.io/disablePlayerNameFoundry/module.json",
-  "download": "https://VikInks.github.io/disablePlayerNameFoundry/disable-player-names.zip"
+  "manifest": "https://github.com/VikInks/disablePlayerNameFoundry/0.0.1/download/module.json"
 }
